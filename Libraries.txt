@@ -1,0 +1,18 @@
+LIBRARIES TO BE IMPORTED!!!!!!
+
+chatterBot
+pip install chatterbot (Version 1.04 used, 1.05-preferred)
+
+pyttsx3
+pip install pyttsx3
+
+pyaudio
+pip install pyaudio
+
+speech_recognition
+
+pip install speech_recognition
+
+
+import tkinter
+import threading
